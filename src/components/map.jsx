@@ -5,17 +5,17 @@ const Map = () => {
       <div className="location">
         <form>
           <label>
-            <span>From</span>
+            
             <input
               type="text"
               id="from"
               name="from"
-              placeholder="Add a Pickup Location"
+              placeholder="Enter a Pickup Location"
             />
           </label>
 
           <label>
-            <span>To</span>
+           
             <input
               type="text"
               id="to"

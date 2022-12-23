@@ -12,7 +12,7 @@ const Aside = () => {
     <>
       <aside>
         <section className="info">
-          <img src={img} alt="pp" />
+          <img src={img} alt="Profile-img" />
           <div className="text">
             <span className="name">Mohammad zayed </span>
             <span className="rate">Rating : 4.5 / 5</span>
